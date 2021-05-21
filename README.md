@@ -247,12 +247,7 @@ Apoyanos  y sigue disfrutando de Blackghost.  <br><br> <img src="https://miro.me
   
 
 <center>
-  <div style="align: center; background-color: #39464F; border-radius: 15px; color: #eeeeee; padding: 5px; width: 98%; margin-bottom:20px">
 
-<a href="go:sphd06"><img src="https://i.imgur.com/MLCLyDh.png" style="border-radius: 10px; padding:0.5% 0;" width="99%" /></a>
-
- ▶ Mas opciones en la Agendas
-  </div>
   
 <a href="go:lasagendas">
 <div class="container">  
@@ -274,34 +269,6 @@ Apoyanos  y sigue disfrutando de Blackghost.  <br><br> <img src="https://miro.me
   <div class="item numero"><p class="iname_"><font Style="color:#D3D6DD ; font-size:small;">IPTV<br>SSIPTV</font></p></div>
   <div class="item icono"><p class="ic_ama"><img src="../app/img/g_mas.png"></p></div>
 </div></a>
-
-
-<a href="go:televi">
-<div class="container">  
-  <div class="item agenda"><font color="#39464F">Television</font></div>
-  <div class="item numero"><p class="iname_"><font Style="color:#D3D6DD ; font-size:small;">Latino<br>España</font></p></div>
-  <div class="item icono"><p class="ic_azu"><img src="../app/img/g_play.png"></p></div>
-</div></a>
-
-
-
-
-<a href="go:peliculas">
-<div class="container">  
-  <div class="item agenda"><font color="#39464F">Peliculas</font></div>
-  <div class="item numero"><p class="iname_"><font Style="color:#D3D6DD ; font-size:small;">Latino<br>España</font></p></div>
-  <div class="item icono"><p class="ic_roj"><img src="../app/img/g_movie.png"></p></div>
-</div></a>
-
-
-
-<a href="go:t247">
-<div class="container">  
-  <div class="item agenda"><font color="#39464F">24/7 Shows</font></div>
-  <div class="item numero"><p class="iname_"><font Style="color:#D3D6DD ; font-size:small;">Retro<br>Latino</font></p></div>
-  <div class="item icono"><p class="ic_nar"><img src="../app/img/g_play2.png"></p></div>
-</div></a>
-
 
 
 
